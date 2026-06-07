@@ -47,8 +47,7 @@ Synthetic dataset created for portfolio and educational purposes using realistic
 - Participants
 - Programs
 - Employment Outcomes
-- Mentorship
-- Social Indicators
+
 ### Total Participants
 - 3,000
 
