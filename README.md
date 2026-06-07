@@ -92,9 +92,47 @@ DIVIDE(
 )
 ```
 
+## Dashboard Design
+### Executive Overview & Program Performance
+![Executive Overview Dashboard](images/dashboard_page1.png)
+### Employment Outcomes & Regional Impact
+![Employment Outcomes Dashboard](images/dashboard_page2.png)
 
+## Key Insights & Findings
 
+### Nearly Half of Participants Secured Employment After Training
+Out of 3,000 enrolled participants:
+- 71.23% completed training.
+- 48.73% secured employment.
+- Average salary among employed participants was approximately ₦267,000.
 
+### Digital Marketing and Cloud Computing Produced the Strongest Employment Outcomes
+These programs consistently recorded the highest employment rates among participants.
+
+### Family Commitments Were the Leading Cause of Dropout
+Dropout analysis revealed that personal and family responsibilities significantly affected participant retention.
+
+### South East Achieved the Strongest Employment Outcomes
+Despite lower participant enrollment, the South East region recorded the highest employment rate.
+
+### Web Development and Cybersecurity Delivered the Highest Salary Outcomes
+Although employment rates were lower, employed graduates from these programs earned the highest average salaries.
+
+## Recommendations
+- Expand Digital Marketing and Cloud Computing programs to maximize employment outcomes.
+- Provide flexible learning options to reduce dropout caused by family commitments.
+- Increase support and outreach in underserved regions.
+- Strengthen employer partnerships to improve job placement outcomes.
+- Continue using data-driven monitoring to evaluate program effectiveness.
+
+## Conclusion
+The analysis demonstrates that digital skills training contributes positively to youth employment outcomes across Nigeria.
+While employment outcomes vary by program and region, the findings highlight opportunities to improve participant retention, strengthen regional impact, and maximize employment opportunities through targeted program improvements and evidence-based decision-making.
+
+## Project Files
+- Power BI Report (.pbix)
+- Project Report (PDF)
+- Dataset (.xlsx)
 
 
 
