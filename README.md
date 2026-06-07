@@ -105,16 +105,12 @@ Out of 3,000 enrolled participants:
 - 71.23% completed training.
 - 48.73% secured employment.
 - Average salary among employed participants was approximately ₦267,000.
-
 ### Digital Marketing and Cloud Computing Produced the Strongest Employment Outcomes
 These programs consistently recorded the highest employment rates among participants.
-
 ### Family Commitments Were the Leading Cause of Dropout
 Dropout analysis revealed that personal and family responsibilities significantly affected participant retention.
-
 ### South East Achieved the Strongest Employment Outcomes
 Despite lower participant enrollment, the South East region recorded the highest employment rate.
-
 ### Web Development and Cybersecurity Delivered the Highest Salary Outcomes
 Although employment rates were lower, employed graduates from these programs earned the highest average salaries.
 
