@@ -93,12 +93,12 @@ DIVIDE(
 ```
 
 ## Dashboard Design
-### Executive Overview & Program Performance
+### Executive Overview and Program Performance
 ![Executive Overview Dashboard](images/dashboard_page1.png)
-### Employment Outcomes & Regional Impact
+### Employment Outcomes and Regional Impact
 ![Employment Outcomes Dashboard](images/dashboard_page2.png)
 
-## Key Insights & Findings
+## Key Insights and Findings
 
 ### Nearly Half of Participants Secured Employment After Training
 Out of 3,000 enrolled participants:
@@ -130,27 +130,9 @@ The analysis demonstrates that digital skills training contributes positively to
 While employment outcomes vary by program and region, the findings highlight opportunities to improve participant retention, strengthen regional impact, and maximize employment opportunities through targeted program improvements and evidence-based decision-making.
 
 ## Project Files
-- Power BI Report (.pbix)
-- Project Report (PDF)
-- Dataset (.xlsx)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- ![Power BI Report (.pbix)]( youth_employment_impact_dashboard.pbix)
+- ![Project Report(pdf)]( project_report.pdf)
+- ![ Dataset (.xlsx)]( youth_skills_employment_impact_dataset.xlsx)
 
 
 
