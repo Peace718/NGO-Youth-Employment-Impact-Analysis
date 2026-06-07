@@ -2,8 +2,22 @@
 
 ### An NGO Monitoring and Evaluation Dashboard for Tracking Training Participation, Engagement, and Employment Outcomes
 
-## Project Overview
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Project Objectives](#project-objectives)
+- [Dataset Overview](#dataset-overview)
+- [Tools and Technologies](#tools-and-technologies)
+- [Data Preparation and Cleaning](#data-preparation-and-cleaning)
+- [Data Modeling](#data-modeling)
+- [DAX Measures and KPIs](#dax-measures-and-kpis)
+- [Dashboard Design](#dashboard-design)
+- [Key Insights and Findings](#key-insights-and-findings)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+- [Project Files](#project-files)
 
+## Project Overview
 This project analyzes the effectiveness of digital skills training programs delivered by a nonprofit organization across Nigeria.
 The objective is to evaluate participant engagement, training completion, and employment outcomes while identifying opportunities to improve program effectiveness and social impact.
 An interactive Power BI dashboard was developed to support evidence-based decision-making for NGO leadership, program managers, and donors.
