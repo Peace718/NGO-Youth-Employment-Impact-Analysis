@@ -59,6 +59,38 @@ A star-schema data model was implemented to support efficient analysis and repor
 ### Data Model
 ![Data Model](images/data_model.png)
 
+## DAX Measures and KPIs
+Key performance indicators created include:
+- Total Participants
+- Completion Rate
+- Dropout Rate
+- Employment Rate
+- Average Attendance
+- Average Salary
+
+### Completion Rate
+```DAX
+Completion Rate =
+DIVIDE(
+    CALCULATE(
+        COUNTROWS(Participants),
+        Participants[Completion_Status] = "Completed"
+    ),
+    [Total Participants]
+)
+```
+
+### Employment Rate
+```DAX
+Employment Rate =
+DIVIDE(
+    CALCULATE(
+        COUNTROWS(Employment_Outcomes),
+        Employment_Outcomes[Employment_Status] = "Employed"
+    ),
+    [Total Participants]
+)
+```
 
 
 
