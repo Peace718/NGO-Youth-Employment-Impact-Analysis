@@ -1,6 +1,6 @@
 # Measuring the Impact of Digital Skills Training on Youth Employment Outcomes in Nigeria
 
-### An NGO Monitoring & Evaluation Dashboard for Tracking Training Participation, Engagement, and Employment Outcomes
+### An NGO Monitoring and Evaluation Dashboard for Tracking Training Participation, Engagement, and Employment Outcomes
 
 ## Project Overview
 
@@ -25,6 +25,59 @@ The dashboard was designed to:
 - Measure employment outcomes across training programs.
 - Compare regional program impact.
 - Support resource allocation and strategic planning.
+
+## Dataset Overview
+### Dataset Type
+Synthetic dataset created for portfolio and educational purposes using realistic assumptions based on publicly available information relating to youth employment, digital skills development, and workforce participation trends in Nigeria.
+### Main Tables
+- Participants
+- Programs
+- Employment Outcomes
+- Mentorship
+- Social Indicators
+### Total Participants
+- 3,000
+
+## Tools and Technologies
+- Power BI Desktop
+- Power Query
+- DAX
+- Microsoft Excel
+
+## Data Preparation and Cleaning
+The following data quality checks and transformations were performed:
+- Verified data types for all columns.
+- Converted date fields into the proper date format.
+- Promoted headers where necessary.
+- Reviewed null and missing values.
+- Validated primary keys and relationships.
+- Created Salary_Midpoint for salary analysis.
+- Checked for duplicate records.
+
+## Data Modeling
+A star-schema data model was implemented to support efficient analysis and reporting.
+### Data Model
+![Data Model](images/data_model.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
