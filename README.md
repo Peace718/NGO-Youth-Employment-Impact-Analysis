@@ -42,7 +42,7 @@ The dashboard was designed to:
 
 ## Dataset Overview
 ### Dataset Type
-Synthetic dataset created for portfolio and educational purposes using realistic assumptions based on publicly available information relating to youth employment, digital skills development, and workforce participation trends in Nigeria.
+Synthetic dataset created for portfolio and educational purposes using realistic assumptions based on publicly available information relating to youth employment, digital skills development, and labour market trends in Nigeria.
 ### Main Tables
 - Participants
 - Programs
