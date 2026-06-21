@@ -143,9 +143,9 @@ The analysis demonstrates that digital skills training contributes positively to
 While employment outcomes vary by program and region, the findings highlight opportunities to improve participant retention, strengthen regional impact, and maximize employment opportunities through targeted program improvements and evidence-based decision-making.
 
 ## Project Files
-- ![Power BI Report (.pbix)]( retail_profit_leakage_analysis.pbix)
+- ![Power BI Report (.pbix)]( youth_employment_impact_dashboard.pbix)
 - ![Project Report(pdf)]( project_report.pdf)
-- ![ Dataset (.xlsx)]( retail_profit_analysis_dataset.xlsx)
+- ![ Dataset (.xlsx)]( youth_skills_employment_impact_dataset.xlsx)
 
 
 
